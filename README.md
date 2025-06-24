@@ -61,8 +61,6 @@ Or, copy your custom folder manually:
 | `gd`, `gr`, `gi` | Go to def/ref/impl (LSP) |
 | `<leader>fm`     | Format file              |
 
-*(You can customize all keymaps in `custom/mappings.lua`)*
-
 ## ✅ Recommended Tools
 
 * [Nerd Fonts](https://www.nerdfonts.com/) – for icons in UI
